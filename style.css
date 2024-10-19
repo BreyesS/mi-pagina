@@ -1,4 +1,32 @@
-h2 {
-    color: red;
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+}
 
+h2 {
+    color: red
+}
+
+html {
+    background-image:url( https://wallpapers-clan.com/wp-content/uploads/2024/04/miles-morales-black-gif-preview-desktop-wallpaper.gif);
+}
+
+p {
+    color: darkcyan;
+    font-size: 30px;
+}
+
+.video {
+    display: flex;
+    /* Usar flexbox para centrar */
+    justify-content: center;
+    /* Centrar horizontalmente */
+    align-items: center;
+    /* Centrar verticalmente si es necesario */
+    margin: 20px 0;
+    /* Agregar un margen para separación */
+}
+
+.parr1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
